@@ -54,7 +54,7 @@ namespace Calculs
                         solution = val1 + val2;
                         if (reponse == solution)
                         {
-                            Console.WriteLine("Bravo !");
+                            Console.WriteLine("Bravo !!");
                         }
                         else
                         {
